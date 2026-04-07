@@ -3,11 +3,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shlok-shah?cardType=level&theme=radical&preferLogin=false" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-shah&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
 
 
-- 🌱 I’m currently learning **Recoil and TypeScript**
+- 🌱 I’m currently working as an SDE Intern at Safe Security (Series C Funded)
 
 - 📫 How to reach me **shlokshah321@gmail.com**
 
